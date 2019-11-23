@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea10bc3d-7586-45af-bed9-927c17aa429a" name="Default Changelist" comment="" />
+    <list default="true" id="ea10bc3d-7586-45af-bed9-927c17aa429a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pay/Pay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pay/PayModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pay/PayResponseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/room/roomprice/RoomPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/room/roomprice/RoomPriceModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/room/roomprice/RoomPriceResponseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/room/roomreserve/RoomReserve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/room/roomreserve/RoomReserveModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/room/roomreserve/RoomReserveResponseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/room/roomreservecancel/RoomReserveCancel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/room/roomreservecancel/RoomReserveCancelModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/room/roomreservecancel/RoomReserveCancelResponseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/room/roomtype/RoomTypeResponseModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/member/info/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/member/info/Info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/member/login/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/member/login/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/member/register/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/member/register/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/room/roomtype/RoomType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/room/roomtype/RoomType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/RequestModelUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/RequestModelUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/callback/ResponseUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/callback/ResponseUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/member/info/Info$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/member/info/Info$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/member/info/Info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/member/info/Info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/member/login/Login$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/member/login/Login$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/member/login/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/member/login/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/member/register/Register$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/member/register/Register$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/member/register/Register.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/member/register/Register.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/room/roomtype/RoomType$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/room/roomtype/RoomType$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/room/roomtype/RoomType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/room/roomtype/RoomType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/RequestModelUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/RequestModelUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/RequestUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/RequestUtils.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +55,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Txxi0ur8VWx6PtFMFl8Trg55HV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="C:/Develop/Ideas/Android/SDK" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../job_helper/job_helper" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -65,11 +112,22 @@
       <option name="presentableId" value="Default" />
       <updated>1574415670139</updated>
       <workItem from="1574415671590" duration="1660000" />
-      <workItem from="1574476693398" duration="9966000" />
+      <workItem from="1574476693398" duration="30457000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

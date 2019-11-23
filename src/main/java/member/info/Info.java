@@ -8,7 +8,6 @@ public class Info {
 
     public static void info(InfoModel model, DataUtils callBack){
         RequestUtils.request(RequestUtils.RequestType.member, "GetMemberInfo", "xml", getRequestXml(model), new ResponseUtils() {
-            @Override
             public void onResponse(String response) {
 
             }

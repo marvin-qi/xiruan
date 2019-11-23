@@ -7,10 +7,9 @@ import utils.callback.ResponseUtils;
 
 public class Login {
 
-    public static void login(LoginModel model, DataUtils callBack){
+    public static void login(LoginModel model, final DataUtils callBack){
         String params = getRequestXml(model);
         RequestUtils.request(RequestUtils.RequestType.member, "UserLogin", "loginXml", params, new ResponseUtils() {
-            @Override
             public void onResponse(String response) {
                 if (response.contains("<retcode>00001</retcode>")){
                     int start = response.indexOf("<Descript>");

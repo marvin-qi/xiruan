@@ -5,9 +5,8 @@ import utils.callback.DataUtils;
 import utils.callback.ResponseUtils;
 
 public class Register {
-    public static void request(RegisterModel params, DataUtils callBack){
+    public static void request(RegisterModel params, final DataUtils callBack){
         RequestUtils.request(RequestUtils.RequestType.member,"Register", "xml", getRequestXml(params), new ResponseUtils() {
-            @Override
             public void onResponse(String response) {
                 if (response.contains("<retcode>00001</retcode>")){
                     int start = response.indexOf("<Descript>");

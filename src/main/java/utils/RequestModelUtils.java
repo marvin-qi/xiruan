@@ -9,6 +9,7 @@ public class RequestModelUtils {
     //DFSdGoxv8aJ3kERUuZtAaQ==
     public static final String username = "zcgqj5owr++IX75dv87qJA==";
     public static final String password = "/dQ9f2gWlyYS77LRx7+fkA==";
+    public static final String cusNo = "";//协议单位号
 
     public static String getRequestTimeString(RequestUtils.RequestType type){
         String formatter = "yyyy-MM-dd HH:mm:ss";
